@@ -1004,6 +1004,29 @@
             "Image segmentation"
         ]
     },
+    "7h149q43": {
+        "Title": "Data in support of the study \"Climate response to negative greenhouse gas radiative forcing in polar winter\"",
+        "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/7h149q43m?locale=en",
+        "Date coverage": null,
+        "Citation to related material": null,
+        "Keywords": [
+            "climate"
+        ]
+    },
+    "x346d466": {
+        "Title": "Development, feasibility, and efficacy of decision aids to improve decision-making for post-mastectomy breast reconstruction: A systematic review and meta-analysis",
+        "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/x346d466c?locale=en",
+        "Date coverage": null,
+        "Citation to related material": null,
+        "Keywords": [
+            "Decision aids",
+            "Decision-making",
+            "Post-mastectomy",
+            "Breast reconstruction",
+            "Systematic review",
+            "Meta-analysis"
+        ]
+    },
     "p2676w18": {
         "Title": "TCCIII Near-Wall Flow",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/p2676w188?locale=en",
@@ -1036,11 +1059,11 @@
     "z603qz05": {
         "Title": "Model results for \"Modeling study of  geospace system response to the solar wind dynamic pressure enhancement on March 17, 2015\"",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/z603qz05k?locale=en",
-        "Date coverage": "2015-03-17 to 2015-03-17",
+        "Date coverage": "2015-03-17 to open",
         "Citation to related material": null,
         "Keywords": [
-            "MHD model",
             "GITM",
+            "MHD model",
             "BATS'R'US"
         ]
     },
@@ -1056,6 +1079,44 @@
             "detrital",
             "Bayesian",
             "density estimation"
+        ]
+    },
+    "qf85nb98": {
+        "Title": "Designing Future Employment Applications for Underserved Job Seekers: A Speed Dating Study",
+        "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/qf85nb98v?locale=en",
+        "Date coverage": null,
+        "Citation to related material": "https://doi.org/10.1145/3196709.3196770",
+        "Keywords": [
+            "Storyboards",
+            "Employment",
+            "Needs Validation",
+            "Underserved job seekers",
+            "Design",
+            "Speed dating"
+        ]
+    },
+    "p5547s00": {
+        "Title": "Magneto-inductive sensor characterization data",
+        "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/p5547s002?locale=en",
+        "Date coverage": null,
+        "Citation to related material": "DOI:10.5194/gi-2017-53",
+        "Keywords": [
+            "Magnetometer"
+        ]
+    },
+    "fx719n14": {
+        "Title": "Effective Fetch and Relative Exposure Index Maps for the Laurentian Great Lakes",
+        "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/fx719n140?locale=en",
+        "Date coverage": "2004 to 2014",
+        "Citation to related material": "DOI:10.7302/Z22F7KN3",
+        "Keywords": [
+            "REI",
+            "Great Lakes",
+            "fetch",
+            "wind exposure",
+            "geospatial",
+            "waves",
+            "GLAHF"
         ]
     }
 }
