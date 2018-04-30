@@ -48,7 +48,8 @@ def create_work_dictionary(work_link):
     url = "https://deepblue.lib.umich.edu" + work_link
     response = make_request_using_cache(url)
     page_html = BeautifulSoup(response, "html.parser")
-    work_html = page_html.find(class_="table table-striped generic_work attributes")
+    work_html = page_html.find(class_="table table-striped generic_work attributes work-description")
+    print(work_html)
     work_dict = {}
     work_dict["Title"] = work_html.find("thead").find("th").text[7:]
     work_dict["url"] = url
@@ -77,13 +78,17 @@ def create_work_dictionary(work_link):
         work_dict["Keywords"] = keywords
     else:
         work_dict["Keywords"] = None
+
+    # Depositor email
+    work_dict["Depositor"] = work_html.find("tbody").find(class_="attribute depositor").string
+
     return work_dict
 
     # Will add other fields in the future
 
 page_num = 0
 all_work_links = []
-for page in range(11): # I hardcoded this because of the infinite paging issue on DBD :P
+for page in range(12): # I hardcoded this because of the infinite paging issue on DBD :P
     page_num += 1
     work_links = get_page_data(page_num)
     all_work_links += work_links
@@ -92,6 +97,7 @@ dictionary_of_works = {}
 for link in all_work_links:
     if "collection" not in link:
         unique_identifier = link.split("/")[-1][0:8]
+        print(link)
         dictionary_of_works[unique_identifier] = create_work_dictionary(link)
 
 file_open = open("dbd_public_metadata.json", "w")
