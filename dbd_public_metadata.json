@@ -2,241 +2,370 @@
     "hm50tr72": {
         "Title": "Unused Pharmaceutical Disposal Model",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/hm50tr726?locale=en",
+        "Creator": [
+            "Skerlos, Steven J."
+        ],
+        "Depositor": "skerlos@umich.edu",
         "Date coverage": null,
         "Citation to related material": null,
-        "Keywords": null,
-        "Depositor": "skerlos@umich.edu"
+        "Keywords": null
     },
     "70795764": {
         "Title": "Evans Old Field Plant Database, 1948-1997",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/707957642?locale=en",
+        "Creator": [
+            "Dr. Francis C. Evans"
+        ],
+        "Depositor": "cwdick@umich.edu",
         "Date coverage": null,
         "Citation to related material": null,
-        "Keywords": null,
-        "Depositor": "cwdick@umich.edu"
+        "Keywords": null
     },
     "sf268508": {
         "Title": "The Bird's Ear View of Space Physics: Audification as a Tool for the Spectral Analysis of Time Series Data",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/sf268508b?locale=en",
+        "Creator": [
+            "Zurbuchen, Thomas H."
+        ],
+        "Depositor": "thomasz@umich.edu",
         "Date coverage": null,
         "Citation to related material": null,
-        "Keywords": null,
-        "Depositor": "thomasz@umich.edu"
+        "Keywords": null
     },
     "hq37vn56": {
         "Title": "The Arrival Fallacy: Collaborative Research Relationships in the Digital Humanities ",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/hq37vn56b?locale=en",
+        "Creator": [
+            "Alix Keener"
+        ],
+        "Depositor": "alixkee@umich.edu",
         "Date coverage": null,
-        "Citation to related material": "https://deepblue.lib.umich.edu/handle/2027.42/117503",
-        "Keywords": null,
-        "Depositor": "alixkee@umich.edu"
+        "Citation to related material": [
+            "https://deepblue.lib.umich.edu/handle/2027.42/117503"
+        ],
+        "Keywords": null
     },
     "1z40ks80": {
         "Title": "Small Female Pelvis Geometry Model ",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/1z40ks800?locale=en",
+        "Creator": [
+            "Matthew P. Reed",
+            "Jonathan D. Rupp",
+            "University of Michigan Transportation Research Institute",
+            "Katelyn F. Klein"
+        ],
+        "Depositor": "katklein@umich.edu",
         "Date coverage": null,
-        "Citation to related material": "https://deepblue.lib.umich.edu/handle/2027.42/117574",
-        "Keywords": null,
-        "Depositor": "katklein@umich.edu"
+        "Citation to related material": [
+            "https://deepblue.lib.umich.edu/handle/2027.42/117574"
+        ],
+        "Keywords": null
     },
     "9g54xh64": {
         "Title": "Raw Data - CCL2 enhances macrophage inflammatory responses via miR-9 mediated downregulation of the ERK1/2 phosphatase Dusp6",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/9g54xh64n?locale=en",
+        "Creator": [
+            "Carson IV, William F."
+        ],
+        "Depositor": "wfcarson@umich.edu",
         "Date coverage": null,
         "Citation to related material": null,
-        "Keywords": null,
-        "Depositor": "wfcarson@umich.edu"
+        "Keywords": null
     },
     "gm80hv32": {
         "Title": "The Observation and Simulation Dataset for The Response of the Coupled Magnetosphere-Ionosphere System to the 15 August 2015 Solar Wind Dynamic Pressure Enhancement ",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/gm80hv32k?locale=en",
+        "Creator": [
+            "Dogacan Su Ozturk"
+        ],
+        "Depositor": "dcsoztrk@umich.edu",
         "Date coverage": null,
         "Citation to related material": null,
-        "Keywords": null,
-        "Depositor": "dcsoztrk@umich.edu"
+        "Keywords": null
     },
     "gb19f581": {
         "Title": "Statistics and Visualization of Point-Patterns",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/gb19f5810?locale=en",
+        "Creator": [
+            "Stoev, Stilian ",
+            "Hu, Weifeng "
+        ],
+        "Depositor": "weifhu@umich.edu",
         "Date coverage": null,
         "Citation to related material": null,
-        "Keywords": null,
-        "Depositor": "weifhu@umich.edu"
+        "Keywords": null
     },
     "v692t621": {
         "Title": "Bangime audio 2015 text 01 Condolences",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/v692t621m?locale=en",
+        "Creator": [
+            "Adama Dicko",
+            "Jeffrey Heath"
+        ],
+        "Depositor": "jheath@umich.edu",
         "Date coverage": null,
         "Citation to related material": null,
-        "Keywords": null,
-        "Depositor": "jheath@umich.edu"
+        "Keywords": null
     },
     "zk51vg77": {
         "Title": "Bangime audio 2015 text 02 Chief and Pauper",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/zk51vg77m?locale=en",
+        "Creator": [
+            "Adama Dicko",
+            "Jeffrey Heath"
+        ],
+        "Depositor": "jheath@umich.edu",
         "Date coverage": null,
         "Citation to related material": null,
-        "Keywords": null,
-        "Depositor": "jheath@umich.edu"
+        "Keywords": null
     },
     "d504rk32": {
         "Title": "Bangime audio 2015 text 03 politics",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/d504rk32w?locale=en",
+        "Creator": [
+            "Adama Dicko",
+            "Jeffrey Heath"
+        ],
+        "Depositor": "jheath@umich.edu",
         "Date coverage": null,
         "Citation to related material": null,
-        "Keywords": null,
-        "Depositor": "jheath@umich.edu"
+        "Keywords": null
     },
     "h128nd73": {
         "Title": "Bangime audio 2015 text 04 Hunters part 1",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/h128nd735?locale=en",
+        "Creator": [
+            "Adama Dicko",
+            "Jeffrey Heath"
+        ],
+        "Depositor": "jheath@umich.edu",
         "Date coverage": null,
         "Citation to related material": null,
-        "Keywords": null,
-        "Depositor": "jheath@umich.edu"
+        "Keywords": null
     },
     "hd76s008": {
         "Title": "Bangime audio 2015 text 04 Hunters part 2",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/hd76s0082?locale=en",
+        "Creator": [
+            "Adama Dicko",
+            "Jeffrey Heath"
+        ],
+        "Depositor": "jheath@umich.edu",
         "Date coverage": null,
         "Citation to related material": null,
-        "Keywords": null,
-        "Depositor": "jheath@umich.edu"
+        "Keywords": null
     },
     "hh63sv88": {
         "Title": "Data for \"The Coda of the Transient Response in a Sensitive Cochlea\"",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/hh63sv88v?locale=en",
+        "Creator": [
+            "Karl Grosh",
+            "Yizeng Li"
+        ],
+        "Depositor": "yizengli@umich.edu",
         "Date coverage": null,
-        "Citation to related material": "http://dx.doi.org/10.1371/journal.pcbi.1005015",
-        "Keywords": null,
-        "Depositor": "yizengli@umich.edu"
+        "Citation to related material": [
+            "http://dx.doi.org/10.1371/journal.pcbi.1005015"
+        ],
+        "Keywords": null
     },
     "5x21tf43": {
         "Title": "Code and Results for \"The Emergence of Groups and Inequality Through Co-Adaptation\"",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/5x21tf430?locale=en",
+        "Creator": [
+            "Jon Atwell"
+        ],
+        "Depositor": "atwell@umich.edu",
         "Date coverage": null,
-        "Citation to related material": "http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0158144",
+        "Citation to related material": [
+            "http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0158144"
+        ],
         "Keywords": [
             "coadaptation",
             "inequality"
-        ],
-        "Depositor": "atwell@umich.edu"
+        ]
     },
     "9z902z87": {
         "Title": "Citations to Open and Closed Access Articles: Treatment and Control Group Data",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/9z902z875?locale=en",
+        "Creator": [
+            "Ottaviani, Jim"
+        ],
+        "Depositor": "hellpop@umich.edu",
         "Date coverage": "1990 to 2013",
         "Citation to related material": null,
-        "Keywords": null,
-        "Depositor": "hellpop@umich.edu"
+        "Keywords": null
     },
     "z603qx43": {
         "Title": "SAS code combines demographic and microbial data",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/z603qx43s?locale=en",
+        "Creator": [
+            "Ai Wen U Michigan"
+        ],
+        "Depositor": "weaverd@umich.edu",
         "Date coverage": null,
         "Citation to related material": null,
-        "Keywords": null,
-        "Depositor": "weaverd@umich.edu"
+        "Keywords": null
     },
     "0z708w42": {
         "Title": "PTB microbial data",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/0z708w42x?locale=en",
+        "Creator": [
+            "Usha Srinivasan U Michigan"
+        ],
+        "Depositor": "weaverd@umich.edu",
         "Date coverage": null,
         "Citation to related material": null,
-        "Keywords": null,
-        "Depositor": "weaverd@umich.edu"
+        "Keywords": null
     },
     "xp68kg21": {
         "Title": "PTB demographic and visit data",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/xp68kg21m?locale=en",
+        "Creator": [
+            "Ai Wen U Michigan"
+        ],
+        "Depositor": "weaverd@umich.edu",
         "Date coverage": null,
         "Citation to related material": null,
-        "Keywords": null,
-        "Depositor": "weaverd@umich.edu"
+        "Keywords": null
     },
     "0c483j39": {
         "Title": "PTB post-randomization shortest cerclage measurement",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/0c483j399?locale=en",
+        "Creator": [
+            "John Owens U Alabama"
+        ],
+        "Depositor": "weaverd@umich.edu",
         "Date coverage": null,
         "Citation to related material": null,
-        "Keywords": null,
-        "Depositor": "weaverd@umich.edu"
+        "Keywords": null
     },
     "pv63g027": {
         "Title": "Excel file after combine",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/pv63g0278?locale=en",
+        "Creator": [
+            "Ai Wen U Michigan"
+        ],
+        "Depositor": "weaverd@umich.edu",
         "Date coverage": null,
         "Citation to related material": null,
-        "Keywords": null,
-        "Depositor": "weaverd@umich.edu"
+        "Keywords": null
     },
     "1544bp11": {
         "Title": "SAS data file after combine",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/1544bp11q?locale=en",
+        "Creator": [
+            "Ai Wen U Michigan"
+        ],
+        "Depositor": "weaverd@umich.edu",
         "Date coverage": null,
         "Citation to related material": null,
-        "Keywords": null,
-        "Depositor": "weaverd@umich.edu"
+        "Keywords": null
     },
     "xs55mc06": {
         "Title": "Selected Vaginal Bacteria and Risk of Preterm Birth: An Ecological Perspective",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/xs55mc06r?locale=en",
+        "Creator": [
+            "Kadija Abbas",
+            "Dawn Misra",
+            "Sreelatha Ponnaluri",
+            "Ai Wen",
+            "John Owen",
+            "Usha Srinivasan",
+            "Betsy Foxman",
+            "Arianna Miles-Jay",
+            "Brigette Bucholz",
+            "Deborah A. Wing",
+            "Deborah Goldberg",
+            "Carl F. Marrs"
+        ],
+        "Depositor": "weaverd@umich.edu",
         "Date coverage": null,
         "Citation to related material": null,
-        "Keywords": null,
-        "Depositor": "weaverd@umich.edu"
+        "Keywords": null
     },
     "3r074t96": {
         "Title": "Mycoplasma, Bacterial Vaginosis Associated Bacteria BVAB3, Race, and Risk of Preterm Birth in a High Risk Cohort",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/3r074t962?locale=en",
+        "Creator": [
+            "Dawn Misra",
+            "Deborah A. Wing",
+            "John Owen",
+            "Usha Srinivasan",
+            "Betsy Foxman",
+            "Carl F. Marrs",
+            "Ai Wen",
+            "Deborah Goldberg"
+        ],
+        "Depositor": "weaverd@umich.edu",
         "Date coverage": null,
         "Citation to related material": null,
-        "Keywords": null,
-        "Depositor": "weaverd@umich.edu"
+        "Keywords": null
     },
     "5425k971": {
         "Title": "Preterm Birth Collection Contents",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/5425k9713?locale=en",
+        "Creator": [
+            "Anna Cronenwett"
+        ],
+        "Depositor": "weaverd@umich.edu",
         "Date coverage": null,
         "Citation to related material": null,
-        "Keywords": null,
-        "Depositor": "weaverd@umich.edu"
+        "Keywords": null
     },
     "47429913": {
         "Title": "mTURK diagnostic testing dataset May 2015",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/47429913s?locale=en",
+        "Creator": [
+            "Arjun Meka",
+            "William J. Meurer",
+            "Jon Porath"
+        ],
+        "Depositor": "wmeurer@umich.edu",
         "Date coverage": null,
         "Citation to related material": null,
-        "Keywords": null,
-        "Depositor": "wmeurer@umich.edu"
+        "Keywords": null
     },
     "wp988j81": {
         "Title": "Data files for manuscript: \"THE STAT4/MLL1 EPIGENETIC AXIS REGULATES THE ANTIMICROBIAL FUNCTIONS OF MURINE MACROPHAGES\"",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/wp988j816?locale=en",
+        "Creator": [
+            "Carson, William F. IV"
+        ],
+        "Depositor": "wfcarson@umich.edu",
         "Date coverage": null,
         "Citation to related material": null,
-        "Keywords": null,
-        "Depositor": "wfcarson@umich.edu"
+        "Keywords": null
     },
     "kd17cs87": {
         "Title": "Data files for manuscript: \"Regulation of STAT5-directed CD4+ T cell lineage commitment by the histone acetyltransferase Myst1\"",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/kd17cs870?locale=en",
+        "Creator": [
+            "William F. Carson IV"
+        ],
+        "Depositor": "wfcarson@umich.edu",
         "Date coverage": null,
         "Citation to related material": null,
-        "Keywords": null,
-        "Depositor": "wfcarson@umich.edu"
+        "Keywords": null
     },
     "n870zq81": {
         "Title": "Optimizing Communication of Emergency Response Adaptive Randomization Clinical Trials to Potential Participants",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/n870zq819?locale=en",
+        "Creator": [
+            "William Meurer"
+        ],
+        "Depositor": "wmeurer@umich.edu",
         "Date coverage": null,
         "Citation to related material": null,
-        "Keywords": null,
-        "Depositor": "wmeurer@umich.edu"
+        "Keywords": null
     },
     "nc580m67": {
         "Title": "Regulation of M\u00fcller Stem Cell Properties: Insights From a Zebrafish Model, Appendix1 ",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/nc580m674?locale=en",
+        "Creator": [
+            "Sifuentes, Christopher J"
+        ],
+        "Depositor": "cjsifuen@umich.edu",
         "Date coverage": null,
         "Citation to related material": null,
         "Keywords": [
@@ -245,12 +374,15 @@
             "stem cells",
             "M\u00fcller glia",
             "zebrafish"
-        ],
-        "Depositor": "cjsifuen@umich.edu"
+        ]
     },
     "vh53wv75": {
         "Title": "Regulation of M\u00fcller Stem Cell Properties: Insights From a Zebrafish Model, Appendix2",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/vh53wv75j?locale=en",
+        "Creator": [
+            "Sifuentes, Christopher J"
+        ],
+        "Depositor": "cjsifuen@umich.edu",
         "Date coverage": null,
         "Citation to related material": null,
         "Keywords": [
@@ -259,12 +391,15 @@
             "zebrafish",
             "M\u00fcller glia",
             "stem cells"
-        ],
-        "Depositor": "cjsifuen@umich.edu"
+        ]
     },
     "3484zh00": {
         "Title": "Regulation of M\u00fcller Stem Cell Properties: Insights From a Zebrafish Model, Appendix3",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/3484zh00p?locale=en",
+        "Creator": [
+            "Sifuentes, Christopher J"
+        ],
+        "Depositor": "cjsifuen@umich.edu",
         "Date coverage": null,
         "Citation to related material": null,
         "Keywords": [
@@ -273,12 +408,15 @@
             "stem cells",
             "M\u00fcller glia",
             "zebrafish"
-        ],
-        "Depositor": "cjsifuen@umich.edu"
+        ]
     },
     "x920fw90": {
         "Title": "Regulation of M\u00fcller Stem Cell Properties: Insights From a Zebrafish Model, Appendix4",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/x920fw90j?locale=en",
+        "Creator": [
+            "Sifuentes, Christopher J"
+        ],
+        "Depositor": "cjsifuen@umich.edu",
         "Date coverage": null,
         "Citation to related material": null,
         "Keywords": [
@@ -287,12 +425,15 @@
             "stem cells",
             "M\u00fcller glia",
             "zebrafish"
-        ],
-        "Depositor": "cjsifuen@umich.edu"
+        ]
     },
     "w9505053": {
         "Title": "Regulation of M\u00fcller Stem Cell Properties: Insights From a Zebrafish Model, Appendix5 ",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/w9505053x?locale=en",
+        "Creator": [
+            "Sifuentes, Christopher J"
+        ],
+        "Depositor": "cjsifuen@umich.edu",
         "Date coverage": null,
         "Citation to related material": null,
         "Keywords": [
@@ -301,12 +442,15 @@
             "regeneration",
             "stem cells",
             "zebrafish"
-        ],
-        "Depositor": "cjsifuen@umich.edu"
+        ]
     },
     "jq085j99": {
         "Title": "Regulation of M\u00fcller Stem Cell Properties: Insights From a Zebrafish Model, Appendix6 ",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/jq085j99x?locale=en",
+        "Creator": [
+            "Sifuentes, Christopher J"
+        ],
+        "Depositor": "cjsifuen@umich.edu",
         "Date coverage": null,
         "Citation to related material": null,
         "Keywords": [
@@ -315,12 +459,15 @@
             "zebrafish",
             "M\u00fcller glia",
             "stem cells"
-        ],
-        "Depositor": "cjsifuen@umich.edu"
+        ]
     },
     "s1784k77": {
         "Title": "Regulation of M\u00fcller Stem Cell Properties: Insights From a Zebrafish Model, Appendix7",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/s1784k77h?locale=en",
+        "Creator": [
+            "Sifuentes, Christopher J"
+        ],
+        "Depositor": "cjsifuen@umich.edu",
         "Date coverage": null,
         "Citation to related material": null,
         "Keywords": [
@@ -329,12 +476,15 @@
             "zebrafish",
             "M\u00fcller glia",
             "stem cells"
-        ],
-        "Depositor": "cjsifuen@umich.edu"
+        ]
     },
     "4b29b600": {
         "Title": "Regulation of M\u00fcller Stem Cell Properties: Insights From a Zebrafish Model, Appendix8",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/4b29b6007?locale=en",
+        "Creator": [
+            "Sifuentes, Christopher J"
+        ],
+        "Depositor": "cjsifuen@umich.edu",
         "Date coverage": null,
         "Citation to related material": null,
         "Keywords": [
@@ -343,12 +493,19 @@
             "stem cells",
             "M\u00fcller glia",
             "zebrafish"
-        ],
-        "Depositor": "cjsifuen@umich.edu"
+        ]
     },
     "r781wg03": {
         "Title": "Neighborhood Effects: Social Environment",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/r781wg03d?locale=en",
+        "Creator": [
+            "Veinot, Tiffany C.",
+            "Data-Driven Detroit",
+            "Okullo, Dolorence",
+            "Goodspeed, Robert",
+            "Yan, Xiang"
+        ],
+        "Depositor": "tveinot@umich.edu",
         "Date coverage": null,
         "Citation to related material": null,
         "Keywords": [
@@ -356,12 +513,17 @@
             "Census Tract Level",
             "Spatial Measures",
             "Religious Institutions"
-        ],
-        "Depositor": "tveinot@umich.edu"
+        ]
     },
     "2f75r810": {
         "Title": "Neighborhood Effects Active Living Resources",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/2f75r8102?locale=en",
+        "Creator": [
+            "Veinot, Tiffany C.",
+            "Data Driven Detroit",
+            "Yan, Xiang (Jacob)"
+        ],
+        "Depositor": "tveinot@umich.edu",
         "Date coverage": null,
         "Citation to related material": null,
         "Keywords": [
@@ -372,20 +534,26 @@
             "Park Land",
             "Metropolitan Detroit",
             "Spatial Measures"
-        ],
-        "Depositor": "tveinot@umich.edu"
+        ]
     },
     "db78tc04": {
         "Title": "Data Supplement: Self-Confirming Price-Prediction Strategies for Simultaneous One-Shot Auctions ",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/db78tc04f?locale=en",
+        "Creator": [
+            "Wellman, Michael P."
+        ],
+        "Depositor": "wellman@umich.edu",
         "Date coverage": null,
         "Citation to related material": null,
-        "Keywords": null,
-        "Depositor": "wellman@umich.edu"
+        "Keywords": null
     },
     "b5644r63": {
         "Title": "Pre-Hospital Midazolam for Treatment of Status Epilepticus Before and After the Rapid Anticonvulsant Medication Prior to Arrival Trial (RAMPART): A National Observational Cohort Study ",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/b5644r63c?locale=en",
+        "Creator": [
+            "Shtull-Leber, Eytan"
+        ],
+        "Depositor": "tanisl@umich.edu",
         "Date coverage": "2010-01-01 to 2014-12-31",
         "Citation to related material": null,
         "Keywords": [
@@ -396,68 +564,100 @@
             "EMS",
             "Seizure",
             "benzodiazepines"
-        ],
-        "Depositor": "tanisl@umich.edu"
+        ]
     },
     "3t945q88": {
         "Title": "Michigan Indoor Corridor Dataset",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/3t945q88k?locale=en",
+        "Creator": [
+            "Kuipers, Benjamin",
+            "Tsai, Grace"
+        ],
+        "Depositor": "collinej@umich.edu",
         "Date coverage": "2012-07-22",
-        "Citation to related material": "Grace Tsai and Benjamin Kuipers  \"Dynamic Visual Understanding of the Local Environment for an Indoor Navigating Robot\" International Conference on Intelligent Robots and Systems (IROS'12) October 2012",
+        "Citation to related material": [
+            "Grace Tsai and Benjamin Kuipers  \"Dynamic Visual Understanding of the Local Environment for an Indoor Navigating Robot\" International Conference on Intelligent Robots and Systems (IROS'12) October 2012"
+        ],
         "Keywords": [
             "Robotics",
             "Computer vision"
-        ],
-        "Depositor": "collinej@umich.edu"
+        ]
     },
     "73666452": {
         "Title": "Effects of Age-Associated Regional Changes in Aortic Stiffness on Human Hemodynamics Revealed by Computational Modeling",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/73666452h?locale=en",
+        "Creator": [
+            "Figueroa, C. Alberto"
+        ],
+        "Depositor": "figueroc@umich.edu",
         "Date coverage": null,
-        "Citation to related material": "Effects of Age-Associated Regional Changes in Aortic Stiffness on Human Hemodynamics Revealed by Computational Modeling. Submitted to PLOS ONE",
+        "Citation to related material": [
+            "Effects of Age-Associated Regional Changes in Aortic Stiffness on Human Hemodynamics Revealed by Computational Modeling. Submitted to PLOS ONE"
+        ],
         "Keywords": [
             "Blood flow modeling",
             "Aging",
             "Hypertension",
             "Pulse Wave Velocity"
-        ],
-        "Depositor": "figueroc@umich.edu"
+        ]
     },
     "9s161628": {
         "Title": "Data and code files for Bing and Wittkopp MBE submission 11/22/16",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/9s161628x?locale=en",
+        "Creator": [
+            "Yang, Bing",
+            "Wittkopp, Patricia J"
+        ],
+        "Depositor": "wittkopp@umich.edu",
         "Date coverage": null,
         "Citation to related material": null,
         "Keywords": [
             "regulatory network evolution"
-        ],
-        "Depositor": "wittkopp@umich.edu"
+        ]
     },
     "gt54kn05": {
         "Title": "ENVIREM: ENVIronmental Rasters for Ecological Modeling version 1.0",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/gt54kn05f?locale=en",
+        "Creator": [
+            "Jordan B. Bemmels",
+            "Pascal O. Title"
+        ],
+        "Depositor": "ptitle@umich.edu",
         "Date coverage": null,
-        "Citation to related material": "Title, P.O., Bemmels, J.B. 2017. ENVIREM: An expanded set of bioclimatic and topographic variables increases flexibility and improves performance of ecological niche modeling. Ecography doi: 10.1111/ecog.02880",
+        "Citation to related material": [
+            "Title, P.O., Bemmels, J.B. 2017. ENVIREM: An expanded set of bioclimatic and topographic variables increases flexibility and improves performance of ecological niche modeling. Ecography doi: 10.1111/ecog.02880"
+        ],
         "Keywords": [
             "raster",
             "bioclimatic",
             "species distribution modeling"
-        ],
-        "Depositor": "ptitle@umich.edu"
+        ]
     },
     "qn59q401": {
         "Title": "Dataset for Understanding the benefit, risk and cost relationship for patients in the emergency department",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/qn59q401h?locale=en",
+        "Creator": [
+            "Meurer, William"
+        ],
+        "Depositor": "wmeurer@umich.edu",
         "Date coverage": null,
         "Citation to related material": null,
         "Keywords": [
             "Diagnostic testing"
-        ],
-        "Depositor": "wmeurer@umich.edu"
+        ]
     },
     "rf55z778": {
         "Title": "Neighborhood Effects: Food Environment",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/rf55z7781?locale=en",
+        "Creator": [
+            "Veinot, Tiffany C.",
+            "Data Driven Detroit",
+            "Goodspeed, Robert",
+            "Okullo, Dolorence",
+            "Gomez-Lopez, Iris N.",
+            "Yan, Xiang (Jacob)"
+        ],
+        "Depositor": "tveinot@umich.edu",
         "Date coverage": null,
         "Citation to related material": null,
         "Keywords": [
@@ -468,38 +668,61 @@
             "Full-Line Grocery Stores",
             "Spatial Measures",
             "Food Deserts"
-        ],
-        "Depositor": "tveinot@umich.edu"
+        ]
     },
     "1j92g753": {
         "Title": "Growth factor signaling to mTORC1 by amino acid\u2013laden macropinosomes",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/1j92g7537?locale=en",
+        "Creator": [
+            "Swanson, Joel A",
+            "Yoshida, Sei"
+        ],
+        "Depositor": "ladislau@umich.edu",
         "Date coverage": "2015-10-05",
-        "Citation to related material": "http://jcb.rupress.org/content/211/1/159",
+        "Citation to related material": [
+            "http://jcb.rupress.org/content/211/1/159"
+        ],
         "Keywords": [
             "mTORC1",
             "growth factor signaling",
             "Macropinosomes"
-        ],
-        "Depositor": "ladislau@umich.edu"
+        ]
     },
     "xk81jk44": {
         "Title": "Simulation Parameters used in the Study titled \"Efficient Estimation of Binding Free Energies between Peptides and an MHC Class II Molecule Using Coarse-Grained Molecular Dynamics Simulations with a Weighted Histogram Analysis Method\"",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/xk81jk44d?locale=en",
+        "Creator": [
+            "Huang, Wenjun",
+            "Wen, Fei",
+            "Huang, Ming",
+            "Larson, Ronald G."
+        ],
+        "Depositor": "wenjunh@umich.edu",
         "Date coverage": "2016",
-        "Citation to related material": "10.1002/jcc.24845",
+        "Citation to related material": [
+            "10.1002/jcc.24845"
+        ],
         "Keywords": [
             "Coarse-Grained",
             "Protein",
             "Molecular Dynamics",
             "MHC",
             "Binding Free Energy"
-        ],
-        "Depositor": "wenjunh@umich.edu"
+        ]
     },
     "3f462547": {
         "Title": "Neighborhood effects :  Information and Education Environment",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/3f462547h?locale=en",
+        "Creator": [
+            "Veinot, Tiffany C",
+            "Data Driven Detroit",
+            "Gomez-Lopez, Iris N.",
+            "Clarke, Phillipa J.",
+            "Goodspeed, Robert",
+            "Okullo, Dolorence",
+            "Reddy, Shruthi"
+        ],
+        "Depositor": "tveinot@umich.edu",
         "Date coverage": null,
         "Citation to related material": null,
         "Keywords": [
@@ -510,71 +733,107 @@
             "Residential Broadband Data Adoption Rates",
             "Broadband Internet Access and Speed",
             "Census tract level"
-        ],
-        "Depositor": "tveinot@umich.edu"
+        ]
     },
     "s4655g69": {
         "Title": "A Video-Based Intervention to Improve Belt Fit ",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/s4655g692?locale=en",
+        "Creator": [
+            "Jones, Monica L.H."
+        ],
+        "Depositor": "mhaumann@umich.edu",
         "Date coverage": "2015-05-01 to 2016-02-15",
-        "Citation to related material": "Jones, M.L.H., Ebert, S.M., and Reed, M.P.  (2015). Effects of High Levels of Obesity on Driver Seat Belt Fit. Advancing Transportation Leadership and Safety Technical Report ATLAS-2015-016.  University of Michigan Transportation Research Institute, Ann Arbor, MI. ",
+        "Citation to related material": [
+            "Jones, M.L.H., Ebert, S.M., and Reed, M.P.  (2015). Effects of High Levels of Obesity on Driver Seat Belt Fit. Advancing Transportation Leadership and Safety Technical Report ATLAS-2015-016.  University of Michigan Transportation Research Institute, Ann Arbor, MI. ",
+            "Jones, M.L.H., Ebert, S.M., Buckley, L., Park, J., and Reed, M.P.  (2016).  Evaluating an Intervention to Improve Belt Fit for Drivers. Technical Report UMTRI 2016-12.  University of Michigan Transportation Research Institute, Ann Arbor, MI. ",
+            "Reed, M.P., Ebert, S.M. and Hallman, J.J. (2013). Effects of driver characteristics on seat belt fit.  Stapp Car Crash Journal, 57:43-57.",
+            "Reed, M.P., Ebert-Hamilton, S.M. and Rupp, J.D. (2012). Effects of obesity on seat belt fit.  Traffic Injury Prevention, 13(4):364-372.  10.1080/15389588.2012.659363"
+        ],
         "Keywords": [
             "Seatbelt Fit",
             "Evaluation",
             "Safety",
             "Intervention"
-        ],
-        "Depositor": "mhaumann@umich.edu"
+        ]
     },
     "79407x27": {
         "Title": "Three-Dimensional Body Shape Manikins of Young Children for Child Restraint Design",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/79407x27g?locale=en",
+        "Creator": [
+            "Jones, Monica L.H."
+        ],
+        "Depositor": "mhaumann@umich.edu",
         "Date coverage": "2014-07-01 to 2015-09-30",
-        "Citation to related material": "http://childshape.org/toddler/manikins/",
+        "Citation to related material": [
+            "http://childshape.org/toddler/manikins/",
+            "Jones, M.L.H., Klinich, K.D., Ebert, S.M., Malik, L., Manary, M.A., and Reed, M.P.  (2015).  A Pilot Study of Toddler Anthropometry and Posture in Child Restraint Systems.  Short Communications from AAAM's 59th Annual Scientific Conference, Traffic Injury Prevention, 16:sup2, S240-S243, DOI: 10.1080/15389588.2015.1073071 "
+        ],
         "Keywords": [
             "Anthropomorphic testing device (ATD)",
             "Child restraint system",
             "Child anthropometry",
             "Statistical body shape model"
-        ],
-        "Depositor": "mhaumann@umich.edu"
+        ]
     },
     "1v53jx16": {
         "Title": "Semantic-Based Document Retrieval Using Spatial Distributions of Concepts",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/1v53jx16x?locale=en",
+        "Creator": [
+            "Ruas, Terry L.",
+            "Grosky, William I."
+        ],
+        "Depositor": "wgrosky@umich.edu",
         "Date coverage": "2016-05-01 to 2017-03-01",
         "Citation to related material": null,
         "Keywords": [
             "fixed lexical chains"
-        ],
-        "Depositor": "wgrosky@umich.edu"
+        ]
     },
     "fn106z05": {
         "Title": "Regional Climate Model Simulations",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/fn106z052?locale=en",
+        "Creator": [
+            "Steiner, A.L.",
+            "Kawecki, S."
+        ],
+        "Depositor": "alsteine@umich.edu",
         "Date coverage": null,
-        "Citation to related material": " doi.org/10.1175/JAS-D-16-0084.1 . Effects of Urban Plume Aerosols on a Mesoscale Convective System",
+        "Citation to related material": [
+            " doi.org/10.1175/JAS-D-16-0084.1 . Effects of Urban Plume Aerosols on a Mesoscale Convective System"
+        ],
         "Keywords": [
             "aerosols",
             "Great Plains",
             "weather",
             "mesoscale convective systems"
-        ],
-        "Depositor": "alsteine@umich.edu"
+        ]
     },
     "rb68xb98": {
         "Title": "Equilibrium configurations of hard polygons near the melting transition",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/rb68xb988?locale=en",
+        "Creator": [
+            "Sharon C. Glotzer",
+            "Michael Engel",
+            "Joshua A. Anderson",
+            "James Antonaglia",
+            "Jaime A. Millan"
+        ],
+        "Depositor": "glotzer@umich.edu",
         "Date coverage": "2013-10 to 2016-03",
         "Citation to related material": null,
-        "Keywords": null,
-        "Depositor": "glotzer@umich.edu"
+        "Keywords": null
     },
     "ft848q70": {
         "Title": "European Folk Costumes Excel Spreadsheet and Access Database",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/ft848q70w?locale=en",
+        "Creator": [
+            "James, David A."
+        ],
+        "Depositor": "dajames@umich.edu",
         "Date coverage": "1997 to 2017",
-        "Citation to related material": null,
+        "Citation to related material": [
+            "The paper, Symmetry in European Folk Costumes, that analyzes the data in the spreadsheet and Access Database can be found at: http://hdl.handle.net/2027.42/136161"
+        ],
         "Keywords": [
             "Symmetry",
             "Classification of designs",
@@ -582,25 +841,36 @@
             "European folk costume",
             "European regional costume",
             "Ethnomathematics"
-        ],
-        "Depositor": "dajames@umich.edu"
+        ]
     },
     "1n79h444": {
         "Title": "Atmospheric CO2 time series derived from CESM NEP and GEOS-Chem pulse response CO2",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/1n79h444s?locale=en",
+        "Creator": [
+            "Keppel-Aleks, Gretchen",
+            "Liptak, Jessica"
+        ],
+        "Depositor": "liptak@umich.edu",
         "Date coverage": "1850-01-01 to 2300-12-31",
-        "Citation to related material": "10.5194/bg-14-1-2017",
+        "Citation to related material": [
+            "10.5194/bg-14-1-2017"
+        ],
         "Keywords": [
             "atmospheric CO2 annual cycle amplitude",
             "CESM extended concentration pathway"
-        ],
-        "Depositor": "liptak@umich.edu"
+        ]
     },
     "mk61rg99": {
         "Title": "Influence of invasive quagga mussels, phosphorus loads, and climate on spatial and temporal patterns of productivity in Lake Michigan: A biophysical modeling study",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/mk61rg99w?locale=en",
+        "Creator": [
+            "Rowe, Mark D."
+        ],
+        "Depositor": "mdrowe@umich.edu",
         "Date coverage": "2000-01-01 to 2010-12-31",
-        "Citation to related material": null,
+        "Citation to related material": [
+            "To access videos streaming of these files go: http://hdl.handle.net/2027.42/136202"
+        ],
         "Keywords": [
             "Lake Michigan",
             "Quagga mussel",
@@ -609,72 +879,108 @@
             "Model",
             "Hydrodynamic model",
             "Phytoplankton"
-        ],
-        "Depositor": "mdrowe@umich.edu"
+        ]
     },
     "np193927": {
         "Title": "Big Ship Data: Pre- and Post-Processed Spatiotemporal Data for 2006-2014 for Great Lakes Air Temperature, Dew Point, Surface Water Temperature, and Wind Speed",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/np1939275?locale=en",
+        "Creator": [
+            "Fries, Kevin J."
+        ],
+        "Depositor": "kjfries@umich.edu",
         "Date coverage": "2006-01-01 to 2014-12-31",
         "Citation to related material": null,
-        "Keywords": null,
-        "Depositor": "kjfries@umich.edu"
+        "Keywords": null
     },
     "nz805z82": {
         "Title": "Abbott Piette Bolivia 2014 Dataset",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/nz805z82j?locale=en",
+        "Creator": [
+            "Piette John",
+            "Abbott Patricia A"
+        ],
+        "Depositor": "pabbott@umich.edu",
         "Date coverage": "2014",
         "Citation to related material": null,
         "Keywords": [
             "Bolivia",
             "Global Health",
             "Non-communicable disease"
-        ],
-        "Depositor": "pabbott@umich.edu"
+        ]
     },
     "gx41mh96": {
         "Title": "Dizziness Scenario Randomized Intervention",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/gx41mh96x?locale=en",
+        "Creator": [
+            "Meurer, William J",
+            "Kerber, Kevin A"
+        ],
+        "Depositor": "wmeurer@umich.edu",
         "Date coverage": null,
         "Citation to related material": null,
         "Keywords": [
             "dizziness"
-        ],
-        "Depositor": "wmeurer@umich.edu"
+        ]
     },
     "k930bx23": {
         "Title": "The KSU-UMD Dataset for Benchmarking for Audio Forensic Algorithms",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/k930bx234?locale=en",
+        "Creator": [
+            "Hafiz Malik",
+            "Muhammad Khurran Khan, King Saud University"
+        ],
+        "Depositor": "hafiz@umich.edu",
         "Date coverage": "2014",
-        "Citation to related material": "http://dx.doi.org/10.1080/00450618.2017.1296186",
+        "Citation to related material": [
+            "http://dx.doi.org/10.1080/00450618.2017.1296186"
+        ],
         "Keywords": [
             "Audio forensic, multimedia forensics, microphone identification, tamper detection, splicing detection, codec identification"
-        ],
-        "Depositor": "hafiz@umich.edu"
+        ]
     },
     "x633f129": {
         "Title": "Improvement of Mars surface snow albedo modeling in LMD Mars GCM with SNICAR",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/x633f129g?locale=en",
+        "Creator": [
+            "Singh, Deepak"
+        ],
+        "Depositor": "sdeepak@umich.edu",
         "Date coverage": null,
         "Citation to related material": null,
-        "Keywords": null,
-        "Depositor": "sdeepak@umich.edu"
+        "Keywords": null
     },
     "s1784k97": {
         "Title": "Literature Search Strategies for \"Substance Use Education in United States Schools of Pharmacy: A Systematic Review of the Literature\"",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/s1784k970?locale=en",
+        "Creator": [
+            "MacEachern, Mark P"
+        ],
+        "Depositor": "markmac@umich.edu",
         "Date coverage": "2016-04",
-        "Citation to related material": "http://dx.doi.org/10.1080/08897077.2017.1341448",
+        "Citation to related material": [
+            "http://dx.doi.org/10.1080/08897077.2017.1341448",
+            "https://www.ncbi.nlm.nih.gov/pubmed/28605276"
+        ],
         "Keywords": [
             "systematic review, pharmacy, education, addiction, substance use"
-        ],
-        "Depositor": "markmac@umich.edu"
+        ]
     },
     "pv63g053": {
         "Title": "FCAV Simulation Dataset",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/pv63g053w?locale=en",
+        "Creator": [
+            "Vasudevan, Ram",
+            "Barto, Charles",
+            "Rosaen, Karl",
+            "Mehta, Rounak",
+            "Matthew, Johnson-Roberson",
+            "Nittur Sridhar, Sharath"
+        ],
+        "Depositor": "barto@umich.edu",
         "Date coverage": null,
-        "Citation to related material": "2016arXiv161001983J",
+        "Citation to related material": [
+            "2016arXiv161001983J"
+        ],
         "Keywords": [
             "Computer Vision and Pattern Recognition",
             "autonomous driving",
@@ -683,25 +989,37 @@
             "deep learning",
             "Robotics",
             "Computer Science"
-        ],
-        "Depositor": "barto@umich.edu"
+        ]
     },
     "2j62s530": {
         "Title": "Subjective Effect Reports of Food",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/2j62s530s?locale=en",
+        "Creator": [
+            "Schulte, Erica M"
+        ],
+        "Depositor": "eorenste@umich.edu",
         "Date coverage": "2016-08",
-        "Citation to related material": null,
+        "Citation to related material": [
+            "Schulte EM, Smeal JK, Gearhardt AN (2017) Foods are differentially associated with subjective effect report questions of abuse liability. PLoS ONE12(8): e0184220. https://doi.org/10.1371/journal.pone.0184220"
+        ],
         "Keywords": [
             "Food Consumption",
             "Behavioral Addiction"
-        ],
-        "Depositor": "eorenste@umich.edu"
+        ]
     },
     "v979v337": {
         "Title": "TCCIII Motored Full View",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/v979v3371?locale=en",
+        "Creator": [
+            "Schiffmann, Philipp",
+            "Sick, Volker",
+            "Reuss, David L"
+        ],
+        "Depositor": "vsick@umich.edu",
         "Date coverage": null,
-        "Citation to related material": "http://dx.doi.org/10.2516/ogst/2015028",
+        "Citation to related material": [
+            "http://dx.doi.org/10.2516/ogst/2015028"
+        ],
         "Keywords": [
             "TCC III engine",
             "internal combustion engine",
@@ -713,14 +1031,21 @@
             "optical engine",
             "cyclic variability ",
             "PIV"
-        ],
-        "Depositor": "vsick@umich.edu"
+        ]
     },
     "qv33rx04": {
         "Title": "TCCIII Fired Spark Plug Region",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/qv33rx04n?locale=en",
+        "Creator": [
+            "Schiffmann, Philipp",
+            "Sick, Volker",
+            "Reuss, David L"
+        ],
+        "Depositor": "vsick@umich.edu",
         "Date coverage": null,
-        "Citation to related material": "dx.doi.org/10.1177/1468087417720558",
+        "Citation to related material": [
+            "dx.doi.org/10.1177/1468087417720558"
+        ],
         "Keywords": [
             "OH* imaging",
             "TCC III engine",
@@ -735,14 +1060,21 @@
             "combustion variability",
             "ignition",
             "PIV"
-        ],
-        "Depositor": "vsick@umich.edu"
+        ]
     },
     "j3860739": {
         "Title": "TCCIII Fired Full View",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/j38607392?locale=en",
+        "Creator": [
+            "Schiffmann, Philipp",
+            "Sick, Volker",
+            "Reuss, David L"
+        ],
+        "Depositor": "vsick@umich.edu",
         "Date coverage": null,
-        "Citation to related material": "dx.doi.org/10.1177/1468087417720558",
+        "Citation to related material": [
+            "dx.doi.org/10.1177/1468087417720558"
+        ],
         "Keywords": [
             "TCC III engine",
             "internal combustion engine",
@@ -754,106 +1086,154 @@
             "optical engine",
             "combustion variability",
             "PIV"
-        ],
-        "Depositor": "vsick@umich.edu"
+        ]
     },
     "dr26xx80": {
         "Title": "Literature Search Strategies for \"Effectiveness of anti-osteoporotic drugs to prevent secondary fragility fractures: systematic review and meta-analysis\"",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/dr26xx804?locale=en",
+        "Creator": [
+            "MacEachern, Mark P"
+        ],
+        "Depositor": "markmac@umich.edu",
         "Date coverage": "2016-07-21",
-        "Citation to related material": "https://www.ncbi.nlm.nih.gov/pubmed/28770272",
+        "Citation to related material": [
+            "https://www.ncbi.nlm.nih.gov/pubmed/28770272"
+        ],
         "Keywords": [
             "Meta-analysis",
             "Surgery",
             "Anti-osteoporotic drugs",
             "Fractures",
             "Systematic review"
-        ],
-        "Depositor": "markmac@umich.edu"
+        ]
     },
     "x920fx31": {
         "Title": "Gelada foraging ecology in the Simien Mountains, Ethiopia",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/x920fx31k?locale=en",
+        "Creator": [
+            "Jarvey, Julie C"
+        ],
+        "Depositor": "jcjarvey@umich.edu",
         "Date coverage": "2015-02-02 to 2016-01-30",
-        "Citation to related material": null,
+        "Citation to related material": [
+            "Jarvey, J.C., Low, B.S., Pappano, D.J. et al. Int J Primatol (2018). https://doi.org/10.1007/s10764-018-0018-x "
+        ],
         "Keywords": [
             "Theropithecus ",
             "fallback foods",
             "underground storage organs",
             "dietary flexibility"
-        ],
-        "Depositor": "jcjarvey@umich.edu"
+        ]
     },
     "tx31qj15": {
         "Title": "Characteristics of Informal Caregivers who Provide Transportation Assistance to Older Adults",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/tx31qj15p?locale=en",
+        "Creator": [
+            "Molnar, Lisa J",
+            "Eby, David W"
+        ],
+        "Depositor": "eby@umich.edu",
         "Date coverage": "2011-06-07 to 2011-07-17",
-        "Citation to related material": null,
+        "Citation to related material": [
+            "Eby, D.W., Molnar, L.J., Kostyniuk, L.P., St. Louis, R.M., & Zanier, N. (2011).  Recommendations for Meeting the Needs of Michigan\u2019s Aging Population.  Report No. RC-1562. Lansing, MI: Michigan Department of Transportation.  This report can be found on Deep Blue: https://deepblue.lib.umich.edu/handle/2027.42/90961"
+        ],
         "Keywords": [
             "Automobile",
             "Caregiver Burden",
             "Driving"
-        ],
-        "Depositor": "eby@umich.edu"
+        ]
     },
     "h989r350": {
         "Title": "The Sharing Economy in Computing: A Systematic Literature Review",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/h989r350t?locale=en",
+        "Creator": [
+            "Hecht, Brent ",
+            "Dillahunt, Tawanna R ",
+            "Wheeler, Earnest",
+            "Zhu, Haiyi",
+            "Cheng, Hao Fei",
+            "Wang, Xinyi"
+        ],
+        "Depositor": "tdillahu@umich.edu",
         "Date coverage": "2008 to 2017-06-01",
-        "Citation to related material": "Tawanna R Dillahunt, Xinyi Wang, Earnest Wheeler, Hao Fei Cheng, Brent Hecht, and Haiyi Zhu. 2018. The Sharing Economy in Computing: A Systematic Literature Review. In Proceedings of the 21st ACM conference on Computer supported cooperative work & social computing. ACM. to appear.",
+        "Citation to related material": [
+            "Tawanna R Dillahunt, Xinyi Wang, Earnest Wheeler, Hao Fei Cheng, Brent Hecht, and Haiyi Zhu. 2018. The Sharing Economy in Computing: A Systematic Literature Review. In Proceedings of the 21st ACM conference on Computer supported cooperative work & social computing. ACM. to appear."
+        ],
         "Keywords": [
             "Human-centered computing",
             "Collaborative and social computing",
             "Human-computer interaction interaction"
-        ],
-        "Depositor": "tdillahu@umich.edu"
+        ]
     },
     "gt54kn00": {
         "Title": "JGR-Space-2012-Data",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/gt54kn002?locale=en",
+        "Creator": [
+            "Moldwin, Mark B"
+        ],
+        "Depositor": "sborda@umich.edu",
         "Date coverage": "2012",
-        "Citation to related material": "submitted to JGR-Space Physics Moldwin and Liemohn, High Impact Papers in Space Physics: Examination of Gender, Country and Paper Characteristics, 2017",
+        "Citation to related material": [
+            "submitted to JGR-Space Physics Moldwin and Liemohn, High Impact Papers in Space Physics: Examination of Gender, Country and Paper Characteristics, 2017"
+        ],
         "Keywords": [
             "Space Physics",
             "Bibliometrics",
             "Gender and Nationality Bias"
-        ],
-        "Depositor": "sborda@umich.edu"
+        ]
     },
     "8p58pc92": {
         "Title": "Data from: Functional traits in cover crop mixtures: biological nitrogen fixation and multifunctionality ",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/8p58pc92q?locale=en",
+        "Creator": [
+            "Blesh, Jennifer"
+        ],
+        "Depositor": "jblesh@umich.edu",
         "Date coverage": null,
-        "Citation to related material": null,
+        "Citation to related material": [
+            "Blesh J. Functional traits in cover crop mixtures: Biological nitrogen fixation and multifunctionality. J Appl Ecol. 2018;55:38\u201348. https://doi.org/10.1111/1365-2664.13011"
+        ],
         "Keywords": [
             "biological nitrogen fixation",
             "cover crop",
             "agroecology",
             "functional diversity"
-        ],
-        "Depositor": "jblesh@umich.edu"
+        ]
     },
     "ns064600": {
         "Title": "Regional Climate Model simulations",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/ns0646000?locale=en",
+        "Creator": [
+            "Bryan, Alex",
+            "Steiner, Allison"
+        ],
+        "Depositor": "alsteine@umich.edu",
         "Date coverage": null,
-        "Citation to related material": "  Bryan, A. M., A. L. Steiner, and D. J. Posselt (2015), Regional modeling of surface-atmosphere interactions  and their impact on Great Lakes hydroclimate, J. Geophys. Res. Atmos., 120, 1044\u20131064, doi:10.1002/2014JD022316.",
+        "Citation to related material": [
+            "  Bryan, A. M., A. L. Steiner, and D. J. Posselt (2015), Regional modeling of surface-atmosphere interactions  and their impact on Great Lakes hydroclimate, J. Geophys. Res. Atmos., 120, 1044\u20131064, doi:10.1002/2014JD022316."
+        ],
         "Keywords": [
             "climate"
-        ],
-        "Depositor": "alsteine@umich.edu"
+        ]
     },
     "gq67jr18": {
         "Title": "Survey of How Primary Care Providers Approach Iron Deficiency Anemia and Celiac Disease",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/gq67jr188?locale=en",
+        "Creator": [
+            "Saini, Sameer D"
+        ],
+        "Depositor": "sdsaini@umich.edu",
         "Date coverage": "2015-11-01",
         "Citation to related material": null,
-        "Keywords": null,
-        "Depositor": "sdsaini@umich.edu"
+        "Keywords": null
     },
     "70795767": {
         "Title": "Marroqu\u00edes Bajos Bioarchaeological Project",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/70795767w?locale=en",
+        "Creator": [
+            "Beck, Jess"
+        ],
+        "Depositor": "sborda@umich.edu",
         "Date coverage": null,
         "Citation to related material": null,
         "Keywords": [
@@ -861,14 +1241,22 @@
             "Archaeology",
             "Bioarchaeology",
             "Copper Age"
-        ],
-        "Depositor": "sborda@umich.edu"
+        ]
     },
     "wd375w30": {
         "Title": "Understanding Ecosystem Services Adoption by Natural Resource Managers and Research Ecologists: Survey Data",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/wd375w30z?locale=en",
+        "Creator": [
+            "Engel, Daniel D. ",
+            "Evans, Mary Anne",
+            "Low, Bobbi S.",
+            "Schaeffer, Jeff"
+        ],
+        "Depositor": "danengel@umich.edu",
         "Date coverage": "2014-06 to 2014-09",
-        "Citation to related material": "Engel, D.D., Evans, M.A., Low, B.S., Schaeffer, J. (2017) \u201cUnderstanding Ecosystem Services Adoption by Natural Resource Managers and Research Ecologists.\u201d Journal of Great Lakes Research, 43(3), 169-179. DOI:10.1016/j.jglr.2017.01.005",
+        "Citation to related material": [
+            "Engel, D.D., Evans, M.A., Low, B.S., Schaeffer, J. (2017) \u201cUnderstanding Ecosystem Services Adoption by Natural Resource Managers and Research Ecologists.\u201d Journal of Great Lakes Research, 43(3), 169-179. DOI:10.1016/j.jglr.2017.01.005"
+        ],
         "Keywords": [
             "Natural Resource Management",
             "Decision-Making",
@@ -876,12 +1264,19 @@
             "Paradigm Adoption",
             "Ecological Economics",
             "Research Ecologist"
-        ],
-        "Depositor": "danengel@umich.edu"
+        ]
     },
     "p8418n22": {
         "Title": "The ethical and professional use of social media in surgery - A review of the literature",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/p8418n224?locale=en",
+        "Creator": [
+            "Bennett, Katelyn G MD",
+            "Preminger, Aviva MD",
+            "MacEachern, Mark P MLIS",
+            "Berlin, Nicolas MD",
+            "Vercler, Christian J MD"
+        ],
+        "Depositor": "markmac@umich.edu",
         "Date coverage": null,
         "Citation to related material": null,
         "Keywords": [
@@ -889,47 +1284,68 @@
             "Plastic surgery",
             "Social media",
             "Surgery"
-        ],
-        "Depositor": "markmac@umich.edu"
+        ]
     },
     "rx913p93": {
         "Title": "Large-eddy simulation of BVOC during the 2011 DISCOVER-AQ",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/rx913p93b?locale=en",
+        "Creator": [
+            "Li, Yang ",
+            "Steiner, Allison"
+        ],
+        "Depositor": "alsteine@umich.edu",
         "Date coverage": null,
-        "Citation to related material": "Li, Y., M. C. Barth, G. Chen, E. G. Patton, S.-W. Kim, A. Wisthaler, T. Mikoviny, A. Fried, R. Clark, and A. L. Steiner (2016), Large-eddy simulation of biogenic VOC chemistry during the DISCOVER-AQ 2011 campaign, J. Geophys. Res. Atmos., 121, doi:10.1002/2016JD024942.",
+        "Citation to related material": [
+            "Li, Y., M. C. Barth, G. Chen, E. G. Patton, S.-W. Kim, A. Wisthaler, T. Mikoviny, A. Fried, R. Clark, and A. L. Steiner (2016), Large-eddy simulation of biogenic VOC chemistry during the DISCOVER-AQ 2011 campaign, J. Geophys. Res. Atmos., 121, doi:10.1002/2016JD024942."
+        ],
         "Keywords": [
             "LES",
             "boundary layer",
             "BVOC Chemistry",
             "turbulence"
-        ],
-        "Depositor": "alsteine@umich.edu"
+        ]
     },
     "6w924b86": {
         "Title": "Large-eddy simulation (LES) model simulations",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/6w924b86j?locale=en",
+        "Creator": [
+            "Li, Yang",
+            "Steiner, Allison "
+        ],
+        "Depositor": "alsteine@umich.edu",
         "Date coverage": null,
-        "Citation to related material": "Li, Y., M. C. Barth, E.G. Patton and A.L. Steiner, Impact of in-cloud aqueous processes on the chemistry and transport of biogenic volatile organic compounds, Journal of Geophysical Research \u2013 Atmospheres, in press, 2017.",
-        "Keywords": null,
-        "Depositor": "alsteine@umich.edu"
+        "Citation to related material": [
+            "Li, Y., M. C. Barth, E.G. Patton and A.L. Steiner, Impact of in-cloud aqueous processes on the chemistry and transport of biogenic volatile organic compounds, Journal of Geophysical Research \u2013 Atmospheres, in press, 2017."
+        ],
+        "Keywords": null
     },
     "t722h885": {
         "Title": "Literature search strategies for \"Substance Use Education in Schools of Nursing: A Systematic Review of the Literature\"",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/t722h885b?locale=en",
+        "Creator": [
+            "MacEachern, Mark P"
+        ],
+        "Depositor": "markmac@umich.edu",
         "Date coverage": null,
-        "Citation to related material": "10.1097/NNE.0000000000000449",
+        "Citation to related material": [
+            "10.1097/NNE.0000000000000449",
+            "https://www.ncbi.nlm.nih.gov/pubmed/28858952"
+        ],
         "Keywords": [
             "addiction",
             "nursing",
             "substance use",
             "education",
             "systematic review"
-        ],
-        "Depositor": "markmac@umich.edu"
+        ]
     },
     "sj139199": {
         "Title": "Discovering History: An Analysis of Secondary Literature Cited in the American Historical Review, 2010-2015",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/sj139199t?locale=en",
+        "Creator": [
+            "Pearce, Alexa L."
+        ],
+        "Depositor": "alexap@umich.edu",
         "Date coverage": null,
         "Citation to related material": null,
         "Keywords": [
@@ -942,47 +1358,77 @@
             "secondary literature",
             "information retrieval",
             "history"
-        ],
-        "Depositor": "alexap@umich.edu"
+        ]
     },
     "cr56n102": {
         "Title": "WRF-Chem Central US - Hygroscopicity tests",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/cr56n1028?locale=en",
+        "Creator": [
+            "Steiner, Allison",
+            "Kawecki, Stacey"
+        ],
+        "Depositor": "alsteine@umich.edu",
         "Date coverage": null,
-        "Citation to related material": "Kawecki et al. , in review",
+        "Citation to related material": [
+            "Kawecki et al. , in review"
+        ],
         "Keywords": [
             "weather",
             "aerosols"
-        ],
-        "Depositor": "alsteine@umich.edu"
+        ]
     },
     "4j03cz84": {
         "Title": "Crop rotations for increased soil carbon: perenniality as a guiding principle",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/4j03cz84c?locale=en",
+        "Creator": [
+            "Blesh, Jennifer",
+            "King, Alison E."
+        ],
+        "Depositor": "jblesh@umich.edu",
         "Date coverage": "2014-10-28 to 2017-10-26",
-        "Citation to related material": null,
+        "Citation to related material": [
+            "King, A. E. and Blesh, J. (2018), Crop rotations for increased soil carbon: perenniality as a guiding principle. Ecol Appl, 28: 249\u2013261. https://doi.org/10.1002/eap.1648"
+        ],
         "Keywords": [
             "cropping system",
             "functional diversity",
             "soil carbon",
             "meta-analysis"
-        ],
-        "Depositor": "jblesh@umich.edu"
+        ]
     },
     "gf06g307": {
         "Title": "Centimeter-Scale Electron Diffusion in Photoactive Organic Heterostructures",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/gf06g3075?locale=en",
+        "Creator": [
+            "Forrest, Stephen R.",
+            "Panda, Anurag",
+            "Qu, Yue",
+            "Che, Xiaozhou",
+            "Coburn, Caleb",
+            "Burlingame, Quinn"
+        ],
+        "Depositor": "calebcob@umich.edu",
         "Date coverage": null,
-        "Citation to related material": "Burlingame, Q., Coburn, C., Che, X., Panda, A., Qu, Y., & Forrest, S. R. (2018). Centimetre-scale electron diffusion in photoactive organic heterostructures. \u00a0Nature,\u00a0 554(7690), 77-80. doi:10.1038/nature25148",
+        "Citation to related material": [
+            "Burlingame, Q., Coburn, C., Che, X., Panda, A., Qu, Y., & Forrest, S. R. (2018). Centimetre-scale electron diffusion in photoactive organic heterostructures. \u00a0Nature,\u00a0 554(7690), 77-80. doi:10.1038/nature25148"
+        ],
         "Keywords": [
             "Organic semiconductors",
             "Charge diffusion"
-        ],
-        "Depositor": "calebcob@umich.edu"
+        ]
     },
     "x059c775": {
         "Title": "Neighborhood effects : Housing",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/x059c7753?locale=en",
+        "Creator": [
+            "Veinot, Tiffany",
+            "Yu, DeAhean",
+            "Data Driven Detroit",
+            "Okullo, Dolorence",
+            "Gomez-Lopez, Iris N.",
+            "Yan, Xiang (Jacob)"
+        ],
+        "Depositor": "dokullo@umich.edu",
         "Date coverage": null,
         "Citation to related material": null,
         "Keywords": [
@@ -999,12 +1445,17 @@
             "Age of Housing",
             "Housing Values",
             "Availability of Kitchen and Plumbing Facilities"
-        ],
-        "Depositor": "dokullo@umich.edu"
+        ]
     },
     "d791sg61": {
         "Title": "Neighborhood effects : Health Status",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/d791sg61j?locale=en",
+        "Creator": [
+            "Veinot,Tiffany,C.",
+            "Data Driven Detroit",
+            "Okullo, Dolorence"
+        ],
+        "Depositor": "tveinot@umich.edu",
         "Date coverage": null,
         "Citation to related material": null,
         "Keywords": [
@@ -1015,78 +1466,115 @@
             "Spatial Measures",
             "Elevated Blood Lead Levels",
             "Community Health"
-        ],
-        "Depositor": "tveinot@umich.edu"
+        ]
     },
     "ft848r06": {
         "Title": "Input files for the Global Ionosphere Thermosphere Model for 2010",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/ft848r062?locale=en",
+        "Creator": [
+            "Ridley, Aaron"
+        ],
+        "Depositor": "sborda@umich.edu",
         "Date coverage": null,
         "Citation to related material": null,
-        "Keywords": null,
-        "Depositor": "sborda@umich.edu"
+        "Keywords": null
     },
     "dz010q39": {
         "Title": "Computer Data from Ross Thesis",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/dz010q391?locale=en",
+        "Creator": [
+            "Mathews, Elizabeth",
+            "Verhoff, Frank"
+        ],
+        "Depositor": "sborda@umich.edu",
         "Date coverage": null,
-        "Citation to related material": "https://deepblue.lib.umich.edu/handle/2027.42/136886",
+        "Citation to related material": [
+            "https://deepblue.lib.umich.edu/handle/2027.42/136886",
+            "https://deepblue.lib.umich.edu/handle/2027.42/137651"
+        ],
         "Keywords": [
             "Population Balances",
             "Dispersed Phase Mixing",
             "Two Liquid Phase Processes",
             "Droplet Size and Concentration"
-        ],
-        "Depositor": "sborda@umich.edu"
+        ]
     },
     "v979v354": {
         "Title": "S'Urachi Site-Based Archaeological Survey 2015",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/v979v354p?locale=en",
+        "Creator": [
+            "Gosner, Linda R.",
+            "Smith, Alexander J."
+        ],
+        "Depositor": "lgosner@umich.edu",
         "Date coverage": "2015",
-        "Citation to related material": "Stiglitz, Alfonso, Enrique D\u00edes Cus\u00ed, Dami\u00e0 Ramis, Andrea Roppa, and Peter van Dommelen. \u201cIntorno Al Nuraghe: Notizie Preliminari Sul Progetto S\u2019Urachi (San Vero Milis, OR).\u201d Quaderni. Rivista Di Archeologia 26 (2015): 191\u2013218.",
+        "Citation to related material": [
+            "Stiglitz, Alfonso, Enrique D\u00edes Cus\u00ed, Dami\u00e0 Ramis, Andrea Roppa, and Peter van Dommelen. \u201cIntorno Al Nuraghe: Notizie Preliminari Sul Progetto S\u2019Urachi (San Vero Milis, OR).\u201d Quaderni. Rivista Di Archeologia 26 (2015): 191\u2013218."
+        ],
         "Keywords": [
             "pedestrian survey",
             "archaeological survey",
             "Sardinia",
             "Classical archaeology",
             "Mediterranean archaeology"
-        ],
-        "Depositor": "lgosner@umich.edu"
+        ]
     },
     "6108vb81": {
         "Title": "Data for \"Using sensor data to dynamically map large-scale models to site-scale forecasts: A case study using the National Water Model\"",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/6108vb81z?locale=en",
+        "Creator": [
+            "Fries, Kevin J"
+        ],
+        "Depositor": "kjfries@umich.edu",
         "Date coverage": null,
         "Citation to related material": null,
-        "Keywords": null,
-        "Depositor": "kjfries@umich.edu"
+        "Keywords": null
     },
     "6q182k84": {
         "Title": "Predicting Crystal Structures using Digital Alchemy Inverse Materials Design and the Random Forest Technique of Machine Learning",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/6q182k84r?locale=en",
+        "Creator": [
+            "Geng, Yina",
+            "Van Anders, Greg",
+            "Glotzer, Sharon C. "
+        ],
+        "Depositor": "yinageng@umich.edu",
         "Date coverage": null,
-        "Citation to related material": null,
+        "Citation to related material": [
+            "Yina Geng, Greg van Anders, Sharon C. Glotzer \"Predicting colloidal crystals from shapes via inverse design and machine learning [pre-print]\" https://arxiv.org/pdf/1801.06219.pdf"
+        ],
         "Keywords": [
             "Inverse Design Machine Learning"
-        ],
-        "Depositor": "yinageng@umich.edu"
+        ]
     },
     "7p88ch00": {
         "Title": "Demographically diverse crowds are typically not much wiser than homogeneous crowds",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/7p88ch00j?locale=en",
+        "Creator": [
+            "de Oliveira, Stephanie",
+            "Nisbett, Richard E."
+        ],
+        "Depositor": "sdeochen@umich.edu",
         "Date coverage": null,
-        "Citation to related material": null,
+        "Citation to related material": [
+            "Demographically diverse crowds are typically not much wiser than homogeneous crowds.  Stephanie de Oliveira Richard E Nisbett Proceedings of the National Academy of Sciences of the United States of America vol. 115 issue 9 (2018) pp: 2066-2071. https://doi.org/10.1073/pnas.1717632115"
+        ],
         "Keywords": [
             "Judgment/Decision Making",
             "Estimate aggregation"
-        ],
-        "Depositor": "sdeochen@umich.edu"
+        ]
     },
     "3b591905": {
         "Title": "Retinal fundus images for glaucoma analysis: the RIGA dataset",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/3b591905z?locale=en",
+        "Creator": [
+            "Almazroa, Ahmed"
+        ],
+        "Depositor": "sborda@umich.edu",
         "Date coverage": null,
-        "Citation to related material": null,
+        "Citation to related material": [
+            "Ahmed Almazroa, Sami Alodhayb, Essameldin Osman, Eslam Ramadan, Mohammed Hummadi, Mohammed Dlaim, Muhannad Alkatee, Kaamran Raahemifar, Vasudevan Lakshminarayanan, \"Retinal fundus images for glaucoma analysis: the RIGA dataset\", Proc. SPIE 10579, Medical Imaging 2018: Imaging Informatics for Healthcare, Research, and Applications, 105790B (6 March 2018); doi: 10.1117/12.2293584; https://doi.org/10.1117/12.2293584 "
+        ],
         "Keywords": [
             "Fundus images",
             "Optic cup",
@@ -1097,26 +1585,35 @@
             "Optic nerve head",
             "Glaucoma",
             "Image segmentation"
-        ],
-        "Depositor": "sborda@umich.edu"
+        ]
     },
     "7h149q43": {
         "Title": "Data in support of the study \"Climate response to negative greenhouse gas radiative forcing in polar winter\"",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/7h149q43m?locale=en",
+        "Creator": [
+            "Flanner, Mark"
+        ],
+        "Depositor": "sborda@umich.edu",
         "Date coverage": null,
-        "Citation to related material": null,
+        "Citation to related material": [
+            "Flanner, M. G., Huang, X., Chen, X.,& Krinner, G. (2018). Climate response to negative greenhouse gas radiative forcing in polar winter. Geophysical Research Letters, 45, 1997\u20132004. https://doi.org/10.1002/2017GL076668"
+        ],
         "Keywords": [
             "climate",
             "greenhouse gas",
             "polar inversion layers",
             "radiative forcing (and/or effective radiative forcing)",
             "MODTRAN simulation"
-        ],
-        "Depositor": "sborda@umich.edu"
+        ]
     },
     "x346d466": {
         "Title": "Development, feasibility, and efficacy of decision aids to improve decision-making for post-mastectomy breast reconstruction: A systematic review and meta-analysis",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/x346d466c?locale=en",
+        "Creator": [
+            "Berlin, Nicholas",
+            "MacEachern, Mark"
+        ],
+        "Depositor": "markmac@umich.edu",
         "Date coverage": null,
         "Citation to related material": null,
         "Keywords": [
@@ -1126,12 +1623,17 @@
             "Decision aids",
             "Meta-analysis",
             "Breast reconstruction"
-        ],
-        "Depositor": "markmac@umich.edu"
+        ]
     },
     "p2676w18": {
         "Title": "TCCIII Near-Wall Flow",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/p2676w188?locale=en",
+        "Creator": [
+            "Sick, Volker ",
+            "Reuss, David L",
+            "Greene, Mark L"
+        ],
+        "Depositor": "sborda@umich.edu",
         "Date coverage": null,
         "Citation to related material": null,
         "Keywords": [
@@ -1146,35 +1648,50 @@
             "PIV",
             "boundary layer",
             "turbulence"
-        ],
-        "Depositor": "sborda@umich.edu"
+        ]
     },
     "qb98mg01": {
         "Title": "Low-Fe(III) Greenalite Was a Primary Mineral from Neoarchean Oceans (Raw Data)",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/qb98mg01q?locale=en",
+        "Creator": [
+            "Johnson, Jena E."
+        ],
+        "Depositor": "jenaje@umich.edu",
         "Date coverage": null,
-        "Citation to related material": null,
+        "Citation to related material": [
+            "Johnson, J. E., Muhling, J. R., Cosmidis, J., Rasmussen, B. & Templeton, A. S. (2018). Low-Fe(III) Greenalite Was a Primary Mineral from Neoarchean Oceans. Geophysical Research Letters, 45. https://doi.org/10.1002/2017GL076311"
+        ],
         "Keywords": [
             "Precambrian banded iron formations",
             "nanoparticle inclusions of iron silicates in chert"
-        ],
-        "Depositor": "jenaje@umich.edu"
+        ]
     },
     "z603qz05": {
         "Title": "Model results for \"Modeling study of  geospace system response to the solar wind dynamic pressure enhancement on March 17, 2015\"",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/z603qz05k?locale=en",
+        "Creator": [
+            "Dogacan Ozturk"
+        ],
+        "Depositor": "dcsoztrk@umich.edu",
         "Date coverage": "2015-03-17",
-        "Citation to related material": null,
+        "Citation to related material": [
+            "Ozturk, D. S., Zou, S., Ridley, A. J., &Slavin, J. A. (2018). Modeli ng study ofthe geospace system response to thesolar wind dynamic pressure enhance-ment on 17 March 2015. Journal ofGeophysical Research: Space Physics, 123.https://doi.org/10.1002/2017JA025099"
+        ],
         "Keywords": [
             "MHD model",
             "BATS'R'US",
             "GITM"
-        ],
-        "Depositor": "dcsoztrk@umich.edu"
+        ]
     },
     "qr46r142": {
         "Title": "Bayesian Population Correlation: A probabilistic approach to comparing detrital zircon age distributions",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/qr46r1420?locale=en",
+        "Creator": [
+            "Tye, Alexander R",
+            "Wolf, Aaron S",
+            "Niemi, Nathan A"
+        ],
+        "Depositor": "alextye@umich.edu",
         "Date coverage": null,
         "Citation to related material": null,
         "Keywords": [
@@ -1184,14 +1701,22 @@
             "detrital",
             "Bayesian",
             "density estimation"
-        ],
-        "Depositor": "alextye@umich.edu"
+        ]
     },
     "qf85nb98": {
         "Title": "Designing Future Employment Applications for Underserved Job Seekers: A Speed Dating Study",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/qf85nb98v?locale=en",
+        "Creator": [
+            "Dillahunt, Tawanna R.",
+            "Lam, Jason",
+            "Lu, Alex",
+            "Wheeler, Earnest"
+        ],
+        "Depositor": "tdillahu@umich.edu",
         "Date coverage": null,
-        "Citation to related material": "https://doi.org/10.1145/3196709.3196770",
+        "Citation to related material": [
+            "https://doi.org/10.1145/3196709.3196770"
+        ],
         "Keywords": [
             "Storyboards",
             "Employment",
@@ -1199,22 +1724,33 @@
             "Underserved job seekers",
             "Design",
             "Speed dating"
-        ],
-        "Depositor": "tdillahu@umich.edu"
+        ]
     },
     "p5547s00": {
         "Title": "Magneto-inductive sensor characterization data",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/p5547s002?locale=en",
+        "Creator": [
+            "Regoli, Leonardo H."
+        ],
+        "Depositor": "lregoli@umich.edu",
         "Date coverage": null,
-        "Citation to related material": "DOI:10.5194/gi-2017-53",
+        "Citation to related material": [
+            "DOI:10.5194/gi-2017-53"
+        ],
         "Keywords": [
             "Magnetometer"
-        ],
-        "Depositor": "lregoli@umich.edu"
+        ]
     },
     "fx719n14": {
         "Title": "Effective Fetch and Relative Exposure Index Maps for the Laurentian Great Lakes",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/fx719n140?locale=en",
+        "Creator": [
+            "Mason, Lacey A.",
+            "Riseng, Catherine M.",
+            "Layman, Andrew J.",
+            "Jensen, Robert"
+        ],
+        "Depositor": "lmas@umich.edu",
         "Date coverage": "2004 to 2014",
         "Citation to related material": null,
         "Keywords": [
@@ -1225,12 +1761,15 @@
             "wind exposure",
             "geospatial",
             "GLAHF"
-        ],
-        "Depositor": "lmas@umich.edu"
+        ]
     },
     "bv73c104": {
         "Title": "Maternal and Infant Survival Study (MISS) Interviews with Health Care Providers in Ghana about Neonatal Near-Misses",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/bv73c104d?locale=en",
+        "Creator": [
+            "Moyer, Cheryl A"
+        ],
+        "Depositor": "camoyer@umich.edu",
         "Date coverage": "2015-06 to 2015-08",
         "Citation to related material": null,
         "Keywords": [
@@ -1238,26 +1777,36 @@
             "developing country",
             "qualitative methods",
             "neonatal mortality"
-        ],
-        "Depositor": "camoyer@umich.edu"
+        ]
     },
     "wm117p52": {
         "Title": "Model outputs for \"Multi-species and multi-fluid MHD approaches for the study of ionospheric escape at Mars\"",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/wm117p52g?locale=en",
+        "Creator": [
+            "Regoli, Leonardo H."
+        ],
+        "Depositor": "lregoli@umich.edu",
         "Date coverage": null,
         "Citation to related material": null,
         "Keywords": [
             "GCM",
             "MHD",
             "Mars"
-        ],
-        "Depositor": "lregoli@umich.edu"
+        ]
     },
     "7p88ch08": {
         "Title": "X-ray tomography dataset for 'Caught in the act: The mechanism of eutectic modification by trace impurities'",
         "url": "https://deepblue.lib.umich.edu/data/concern/generic_works/7p88ch08r?locale=en",
+        "Creator": [
+            "Moniri, Saman",
+            "Xiao, Xianghui",
+            "Shahani, Ashwin J."
+        ],
+        "Depositor": "moniri@umich.edu",
         "Date coverage": "2016-12-18 to 2017-06-01",
-        "Citation to related material": "Saman Moniri, Xianghui Xiao, and Ashwin J. Shahani, \"Caught in the act: The mechanism of eutectic modification by trace impurities\"",
+        "Citation to related material": [
+            "Saman Moniri, Xianghui Xiao, and Ashwin J. Shahani, \"Caught in the act: The mechanism of eutectic modification by trace impurities\""
+        ],
         "Keywords": [
             "X-ray microtomography",
             "synchrotron",
@@ -1266,7 +1815,6 @@
             "irregular eutectic",
             "growth",
             "solidification"
-        ],
-        "Depositor": "moniri@umich.edu"
+        ]
     }
 }

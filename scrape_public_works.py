@@ -49,10 +49,19 @@ def create_work_dictionary(work_link):
     response = make_request_using_cache(url)
     page_html = BeautifulSoup(response, "html.parser")
     work_html = page_html.find(class_="table table-striped generic_work attributes work-description")
-    print(work_html)
     work_dict = {}
     work_dict["Title"] = work_html.find("thead").find("th").text[7:]
     work_dict["url"] = url
+
+    # Creators
+    creator_result = work_html.find("tbody").find_all("li", class_="attribute creator")
+    creators = []
+    for creator in creator_result:
+        creators.append(creator.text)
+    work_dict["Creator"] = creators
+
+    # Depositor email
+    work_dict["Depositor"] = work_html.find("tbody").find(class_="attribute depositor").string
 
     # Date coverage
     if work_html.find("tbody").find(class_="attribute date_coverage") != None:
@@ -61,8 +70,12 @@ def create_work_dictionary(work_link):
         work_dict["Date coverage"] = None
 
     # Citation to related material
-    if work_html.find("tbody").find(class_="attribute isReferencedBy") != None:
-        work_dict["Citation to related material"] = work_html.find("tbody").find(class_="attribute isReferencedBy").string
+    citation_result = work_html.find("tbody").find_all(class_="attribute isReferencedBy")
+    if len(citation_result) != 0:
+        citations = []
+        for citation in citation_result:
+            citations.append(citation.text)
+        work_dict["Citation to related material"] = citations
     else:
         work_dict["Citation to related material"] = None
 
@@ -70,17 +83,11 @@ def create_work_dictionary(work_link):
     keyword_result = work_html.find("tbody").find_all(class_="attribute keyword")
     if len(keyword_result) != 0:
         keywords = []
-        if len(keyword_result) > 1:
-            for keyword in keyword_result:
-                keywords.append(keyword.text)
-        else:
-            keywords.append(keyword_result[0].text)
+        for keyword in keyword_result:
+            keywords.append(keyword.text)
         work_dict["Keywords"] = keywords
     else:
         work_dict["Keywords"] = None
-
-    # Depositor email
-    work_dict["Depositor"] = work_html.find("tbody").find(class_="attribute depositor").string
 
     return work_dict
 
