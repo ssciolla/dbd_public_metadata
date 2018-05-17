@@ -60,6 +60,20 @@ def create_work_dictionary(work_link):
         creators.append(creator.text)
     work_dict["Creator"] = creators
 
+    # Methodology
+    methodology_result = work_html.find("tbody").find_all("li", class_="attribute methodology")
+    methodology_entries = []
+    for entry in methodology_result:
+        methodology_entries.append(entry.text)
+    work_dict["Methodology"] = methodology_entries
+
+    # Description
+    description_result = work_html.find("tbody").find_all("li", class_="attribute description")
+    description_entries = []
+    for entry in description_result:
+        description_entries.append(entry.text)
+    work_dict["Description"] = description_entries
+
     # Depositor email
     work_dict["Depositor"] = work_html.find("tbody").find(class_="attribute depositor").string
 
